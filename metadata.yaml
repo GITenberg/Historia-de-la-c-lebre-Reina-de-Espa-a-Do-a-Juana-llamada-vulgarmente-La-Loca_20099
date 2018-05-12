@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20099#Historia-de-la-c-lebre-Reina-de-Espa-a-Do-a-Juana-llamada-vulgarmente-La-Loca
 gutenberg_issued: '2006-12-14'
 gutenberg_type: Text
 identifiers:
